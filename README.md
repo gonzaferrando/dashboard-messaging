@@ -51,6 +51,5 @@ The 3 priorities that we provide you are:
 3. material-ui/core upgraded to 4.12.3.
 4. messageId added to message object.
 5. Function documentation added. Can also add params doc.
-6. enzime and @wojtekmaj/enzyme-adapter-react-17 added for testing.
-7. Some unit test were created. All components not fully covered though.
-8. Font family and font sizes are not correct.
+6. Some unit test were created. All components not fully covered though.
+7. Font family and font sizes are not correct.
