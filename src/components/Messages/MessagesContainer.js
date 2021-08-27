@@ -6,7 +6,7 @@ import Grid from "@material-ui/core/Grid";
 import { Button } from "../Form";
 import Api from "../../api";
 import MessagesList from "./MessagesList";
-import { messagePriority } from "../../types/common";
+import { messagePriority } from "../../constant/common";
 import { useMessageDashboardContext } from "../../context/Messages/MessagesDashboardContext";
 import testingId from "../../constant/testingId";
 

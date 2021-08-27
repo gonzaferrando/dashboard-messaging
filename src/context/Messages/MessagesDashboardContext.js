@@ -2,7 +2,7 @@ import { createContext, useContext, useReducer } from "react";
 import MessagesDashboardReducer from "./MessagesDashboardReducer";
 
 import * as actions from "./MessagesDashboardActions";
-import { messagePriority } from "../../types/common";
+import { messagePriority } from "../../constant/common";
 
 const MessageDashboardContext = createContext();
 

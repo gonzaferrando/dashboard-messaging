@@ -1,7 +1,7 @@
 import React, { useMemo } from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
-import { messagePriority } from "../../types/common";
+import { messagePriority } from "../../constant/common";
 import testingId from "../../constant/testingId";
 import { useMessageDashboardContext } from "../../context/Messages/MessagesDashboardContext";
 
